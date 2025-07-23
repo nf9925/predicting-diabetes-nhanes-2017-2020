@@ -76,7 +76,7 @@ This project compares classic statistical models and modern machine-learning met
 |-------------------|-------|----------|---------|-------------|-------------|
 | Stacked_Ensemble  | 11.26 | 1.000    | 1.000   | 1.000       | 1.000       |
 
-> *Yes, a lot of perfect 1.000s — great for grades, but treat with caution (likely overfitting).*
+> *I’m aware the 1.000s likely reflect SMOTE-driven class balance and model complexity; results should be interpreted with caution and validated externally.*
 
 ---
 
