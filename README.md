@@ -1,6 +1,6 @@
-# End-to-end RStudio analysis of NHANES data to predict diabetes—SMOTE-balanced training, multiple ML models, and performance benchmarking.
+End-to-end RStudio analysis of NHANES (2017–March 2020) data to predict diabetes—SMOTE-balanced training, multiple ML models, and performance benchmarking.
 
-# Predictive Modeling for Diagnosing Diabetes (NHANES 2017–March 2020)
+ 
 
 This project compares classic statistical models and modern machine-learning methods to predict physician-diagnosed diabetes using pre-pandemic NHANES data. The entire workflow was built in **RStudio** for a graduate Data Mining in Healthcare course.
 
